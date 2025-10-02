@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arsalan00777
-- 👀 I’m interested in CEO
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in CEH
+- 🌱 I’m currently learning Python
 - 📫 How to reach me arsalanamiri0088@gmail.com
 
 <!---
